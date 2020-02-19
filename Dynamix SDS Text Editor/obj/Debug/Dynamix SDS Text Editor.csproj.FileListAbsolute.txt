@@ -1,0 +1,9 @@
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\bin\Debug\Dynamix SDS Text Editor.exe.config
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\bin\Debug\Dynamix SDS Text Editor.exe
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\bin\Debug\Dynamix SDS Text Editor.pdb
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix SDS Text Editor.csprojResolveAssemblyReference.cache
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix_SDS_Text_Editor.Main.resources
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix_SDS_Text_Editor.Properties.Resources.resources
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix SDS Text Editor.csproj.GenerateResource.Cache
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix SDS Text Editor.exe
+D:\Dementia\Software\Dynamix SDS Text Editor\Dynamix SDS Text Editor\obj\Debug\Dynamix SDS Text Editor.pdb
